@@ -1,19 +1,3 @@
-= Tech Companies in Bangladesh
-
-List of tech companies to help developers to find jobs.
-
-=== How to add a new Company?
-
-- Fork the repository.
-- Add the company in alphabetical order.
-- Create pull request.
-
-{nbsp} +
-{nbsp} +
-
-==== Alphabetical Order: A - C
-|===
-|Company Name |Office location |Technologies |Web presence |No. of Software Engineers
 
 |Adplay Technologies (VU Mobile)
 |Head Office: 4th Floor, House- 114, Road-12, Block-E, Banani, Dhaka-1213
@@ -274,12 +258,6 @@ https://github.com/ChumbokIT[Github]
 |https://www.commlinkinfotech.com/[Website]
 |Please update
 
-|===
-
-==== Alphabetical Order: D - F
-|===
-|Company Name |Office location |Technologies |Web presence |No. of Software Engineers
-
 |DataSoft
 |Rupayan Shelford (20th floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
 |Java, Spring Boot, C#, .Net, Angular/Vue/JQuery
@@ -436,12 +414,6 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |Go, MongoDB, Redis, RabbitMQ, ElasticSearch, PHP, Laravel, JavaScript, React, Firebase
 |https://furqansoftware.com/[Website]
 |Please update
-
-|===
-
-==== Alphabetical Order: G - I
-|===
-|Company Name |Office location |Technologies |Web presence |No. of Software Engineers
 
 |GeekSSort
 |Level 9, Mojumdar Tower, Block-C, Rayerbag, Dhaka
@@ -611,12 +583,6 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |https://ixorasolution.com[Website]
 |Please update
 
-|===
-
-==== Alphabetical Order: J - L
-|===
-|Company Name |Office location |Technologies |Web presence |No. of Software Engineers
-
 |Jatri Services Limited
 |Road 24, House 15, Gulshan-02, Dhaka 1212
 |Web App, Mobile App, IoT
@@ -670,12 +636,6 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |Android, UI/UX, Python, Java, Kotlin, Django, React, Wordpress
 |http://liilab.com[Website]
 |Please update
-
-|===
-
-==== Alphabetical Order: M - O
-|===
-|Company Name |Office location |Technologies |Web presence |No. of Software Engineers
 
 |Markopolo AI
 |79 Gulshan Ave, Dhaka 1212
@@ -859,12 +819,6 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 |https://www.ottoint.com/[Website]
 |Please update
 
-|===
-
-==== Alphabetical Order: P - R
-|===
-|Company Name |Office location |Technologies |Web presence |No. of Software Engineers
-
 |Paperfly Ltd
 |SKS Tower, Level 5, Mohakhali, Dhaka-1212.
 |React, Vue, PHP, Laravel.
@@ -948,12 +902,6 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 |Andorid, Flutter, Java, Spring, NextJS, Python
 |https://www.rokomari.com/[Website]
 |Please update
-
-|===
-
-==== Alphabetical Order: S - U
-|===
-|Company Name |Office location |Technologies |Web presence |No. of Software Engineers
 
 |Samsung R&D Institute Bangladesh, Ltd.(Korea)
 |111 Bir Uttam CR Dutta Rd, Dhaka 1205
@@ -1176,12 +1124,6 @@ https://www.linkedin.com/company/tigerit-bangladesh-limited/[LinkedIn]
 |https://www.trivaitltd.com/[Website]
 |Please update
 
-|===
-
-==== Alphabetical Order: V - Z
-|===
-|Company Name |Office location |Technologies |Web presence |No. of Software Engineers
-
 |Vantage Labs (USA)
 |6th Floor, Dynasty Tower, Begum Rokeya Avenue, Mirpur 11, Dhaka, Bangladesh
 |Java, PHP, AngularJS
@@ -1267,12 +1209,6 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |https://www.yotech.ltd[Website]
 |Please update
 
-|===
-
-==== Alphabetical Order: 1 - 9
-|===
-|Company Name |Office location |Technologies |Web presence |No. of Software Engineers
-
 |2A IT
 |Road-4, House- 54, Level- 3, Mohanagar Project, West Rampura Dhaka- 1219, Bangladesh
 |PHP, Laravel, Java, Android, jQuery, MySQL
@@ -1290,12 +1226,6 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |Figma, Java, Socket, Docker, React, Next Js, Node Js, Mongo DB, AWS
 |https://6sensehq.com/[Website]
 |15-20
-
-|===
-
-==== Some other companies with IT section
-|===
-|Company Name |Office location |Technologies |Web presence |No. of Software Engineers
 
 |bkash
 |Shadhinata Tower, 1, Bir Sreshtha Shaheed Jahangir Gate, Dhaka Cantonment, Dhaka-1206
@@ -1395,14 +1325,3 @@ https://www.linkedin.com/company/orbitaxbd/[LinkedIn]
 |JavaScript, HTML, CSS, React, Node, AWS
 |https://www.wundermanthompson.com/[Website]
 |Please update
-
-|===
-
-{nbsp} +
-{nbsp} +
-
-=== Contribute
-Contributions are always welcome! Create a pull request.
-
-=== Copyright & License
-Licensed under the MIT License, see the link:LICENSE[LICENSE] file for details.
